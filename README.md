@@ -9,7 +9,7 @@
 ## Introduction
 This project is a simple ray tracer implemented in C++ designed to render 3D scenes with basic geometric shapes, lighting, and reflection effects. The core features include rendering spheres and a ground plane with basic diffuse, specular, and ambient lighting.
 
-<img src="example_output2.jpg" width="600" height="300" alt="Example Output">
+<img src="example_output2.jpg" width="600" height="450" alt="Example Output">
 
 
 ## Dependencies
