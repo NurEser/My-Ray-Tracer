@@ -1,2 +1,4 @@
 # Ray-Tracer-
-This C++ project features a ray tracing engine designed for rendering 3D scenes with realistic lighting and reflections. It focuses on tracing spherical objects(reflective/non-reflective) and includes a ground plane(reflective/non-reflective).
+This project is a simple ray tracer implemented in C++ designed to render 3D scenes with basic geometric shapes, lighting, and reflection effects. The core features include rendering spheres and a ground plane with basic diffuse, specular, and ambient lighting.
+
+
